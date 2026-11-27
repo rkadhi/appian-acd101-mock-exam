@@ -4,15 +4,15 @@ An independent, browser-based practice assessment with 60 original questions and
 
 ## What changed in the scenario-led revision
 
-- Rewrote 40 of the 60 questions as applied scenarios covering application organization, RPA vs. Process Mining, permissions, release checks, record security, data modeling, query efficiency, schema mapping, process data flow, activity chaining, SAIL input behavior, validation, and reusable interfaces.
+- Rewrote all 60 questions as applied scenarios covering application organization, RPA vs. Process Mining, permissions, release checks, record security, data modeling, query efficiency, schema mapping, process data flow, activity chaining, SAIL input behavior, validation, and reusable interfaces.
 - Retained the seven published topic areas: Appian Platform, General Appian Principles, Data Manipulation, Process Modeling, Interface Design, Records, and Expression Rules.
-- The remaining 20 questions are still being reviewed for scenario depth and additional interactive formats; this revision is a substantial improvement, not a claim that every question is now a perfect replica of the live exam.
+- Added interactive matching and ordered-list questions alongside single-select and multiple-select items. The question formats are practice approximations; this is not a claim that every interaction exactly replicates the live exam.
 - Answers and explanations remain hidden until submission.
 
 ## Features
 
 - One question at a time with Previous, Next and Skip navigation
-- Single-select and multiple-select questions
+- Single-select, multiple-select, matching, and ordered-list questions
 - 60-minute practice timer with automatic submission at zero
 - Score summary, topic breakdown and explanations after submission
 - Responsive layout for desktop and mobile
