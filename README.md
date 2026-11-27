@@ -4,9 +4,9 @@ An independent, browser-based practice assessment with 60 original questions and
 
 ## What changed in the scenario-led revision
 
-- Replaced the first 20 generic recall questions with applied scenarios covering application organization, RPA vs. Process Mining, permissions, release checks, record security, data modeling, query efficiency, and schema mapping.
+- Rewrote 40 of the 60 questions as applied scenarios covering application organization, RPA vs. Process Mining, permissions, release checks, record security, data modeling, query efficiency, schema mapping, process data flow, activity chaining, SAIL input behavior, validation, and reusable interfaces.
 - Retained the seven published topic areas: Appian Platform, General Appian Principles, Data Manipulation, Process Modeling, Interface Design, Records, and Expression Rules.
-- Added more realistic troubleshooting and configuration decisions rather than relying only on definitions.
+- The remaining 20 questions are still being reviewed for scenario depth and additional interactive formats; this revision is a substantial improvement, not a claim that every question is now a perfect replica of the live exam.
 - Answers and explanations remain hidden until submission.
 
 ## Features
