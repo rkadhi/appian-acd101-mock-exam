@@ -1,34 +1,36 @@
 # Appian ACD101 Associate Developer — Mock Exam
 
-An independent, browser-based practice assessment with 60 original questions and a 60-minute timer.
+An independent, browser-based practice assessment with 60 original questions and a 60-minute practice timer.
+
+## What changed in the scenario-led revision
+
+- Replaced the first 20 generic recall questions with applied scenarios covering application organization, RPA vs. Process Mining, permissions, release checks, record security, data modeling, query efficiency, and schema mapping.
+- Retained the seven published topic areas: Appian Platform, General Appian Principles, Data Manipulation, Process Modeling, Interface Design, Records, and Expression Rules.
+- Added more realistic troubleshooting and configuration decisions rather than relying only on definitions.
+- Answers and explanations remain hidden until submission.
 
 ## Features
 
 - One question at a time with Previous, Next and Skip navigation
 - Single-select and multiple-select questions
-- Countdown timer with automatic submission at zero
-- No answer key, explanations or score shown before submission
+- 60-minute practice timer with automatic submission at zero
 - Score summary, topic breakdown and explanations after submission
 - Responsive layout for desktop and mobile
 - Runs entirely in the browser; no candidate account or backend is required
 
-## Publish with GitHub Pages
-
-1. Open **Settings → Pages** in this repository.
-2. Under **Build and deployment → Source**, select **GitHub Actions**.
-3. The workflow in `.github/workflows/pages.yml` will deploy the site after the next push to `main`.
-4. Your public site will be available at: https://rkadhi.github.io/appian-acd101-mock-exam/
-
 ## Important exam note
 
-This is original practice material, not an official Appian exam, exam dump, or guarantee of current exam coverage. The question mix and 60-minute format are provided as a practice simulation. Always check Appian Academy for the current ACD101 objectives, question format, and passing requirements. The mock score is not an official pass/fail result.
+This is original practice material, not an official Appian exam, a reproduction of exam dumps, or a guarantee of current exam coverage. Public dump sites are unofficial and can contain inaccurate, outdated, or unauthorized material. Their question patterns can help identify the kinds of applied skills candidates are practicing, but Appian Academy and Appian documentation should remain the source of truth.
+
+Appian's published 2025 Q2 Academy course catalog lists the seven topic areas and describes a 60-question, 60-minute exam with multiple-choice, matching, and list-building formats. This catalog is a published reference, not confirmation that every detail remains unchanged in November 2026. Confirm the current blueprint, format, and passing requirements in Appian Academy before the real exam.
 
 ## Sources for study
 
-- [Appian documentation — Expressions](https://docs.appian.com/suite/help/26.10/Expressions.html)
-- [Appian documentation — Data modeling with records](https://docs.appian.com/suite/help/26.3/data-modeling-with-appian-records.html)
-- [Appian documentation — Where to use record types](https://docs.appian.com/suite/help/26.8/Using_the_Records_Tab.html)
-- [Appian documentation — Glossary](https://docs.appian.com/suite/help/26.5/Glossary.html)
+- [Appian Academy — Developer learning path](https://academy.appian.com/page/developer)
+- [Appian Academy — Associate Developer certification](https://academy.appian.com/page/appian-certified-associate-developer)
+- [Appian documentation — Common data modeling patterns](https://docs.appian.com/suite/help/26.3/data-modeling-with-appian-records.html)
+- [Appian documentation — Troubleshoot data sync](https://docs.appian.com/suite/help/25.3/Records_Monitoring_Details.html)
+- [Appian documentation — Expression rules and test cases](https://docs.appian.com/suite/help/25.4/Expression_Rules.html)
 
 ## License and affiliation
 
